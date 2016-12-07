@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DrawerForm.qml</file>
+        <file>dot.qml</file>
+        <file>js/localValuesDots.js</file>
+        <file>ConnectForm.qml</file>
+    </qresource>
+</RCC>

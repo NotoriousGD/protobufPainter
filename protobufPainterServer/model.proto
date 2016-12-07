@@ -1,0 +1,15 @@
+message model{
+
+    required int32 X = 1;
+    required int32 Y = 2;
+
+    enum Color{
+        GREEN =1;
+        BLUE =2;
+        RED =3;
+        PURPLE =4;
+        YELLOW =5;
+    }
+
+    required Color color= 3;
+}

@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+<file alias="js/Dots.js">/home/notorious/protobuf_client-server_painter/protobufPainterServer/js/Dots.js</file>
+</qresource>
+</RCC>
